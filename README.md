@@ -1,4 +1,4 @@
-Hey, I'm Josiah Lansford. Welcome to my GitHub page, I guess.
+👋 Hey, I'm Josiah. Welcome to my GitHub page, I guess.
 
 <!---
 lansfojo/lansfojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
