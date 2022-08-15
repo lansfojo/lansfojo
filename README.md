@@ -1,6 +1,6 @@
 👋 Hey, I'm Josiah.
 
-I'm a software engineer at [Path Robotics](www.path-robotics.com), working on revolutionizing the manufacturing industry with intelligent welding robotics.
+I'm a software engineer at [Path Robotics](https://path-robotics.com), working on revolutionizing the manufacturing industry with intelligent welding robotics.
 
 That's basically all there is to know about me.
 
